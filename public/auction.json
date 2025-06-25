@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "title": "Vintage Leica M3 Camera",
+        "description": "A classic 35mm rangefinder camera, cherished by photographers and collectors alike.",
+        "currentBidPrice": 4200,
+        "timeLeft": "2 Days left",
+        "bidsCount": 4,
+        "image": "https://i.ibb.co/xKjbJ4Vx/94c6ff7df4d6.png"
+    },
+    {
+        "id": "2",
+        "title": "1965 Gibson SG Standard Electric Guitar",
+        "description": "An iconic electric guitar known for its powerful sound and vintage appeal.",
+        "currentBidPrice": 5700,
+        "timeLeft": "4 Days left",
+        "bidsCount": 10,
+        "image": "https://i.ibb.co/393mtQxQ/241c9309d347.png"
+    },
+    {
+        "id": "3",
+        "title": "Original Apple Macintosh 128K (1984)",
+        "description": "The revolutionary first-generation Macintosh computer that changed the world.",
+        "currentBidPrice": 1500,
+        "timeLeft": "8 hours",
+        "bidsCount": 3,
+        "image": "https://i.ibb.co/Fqm1bHjG/cf8035af739c.png"
+    },
+    {
+        "id": "4",
+        "title": "Rolex Submariner 16610",
+        "description": "A legendary diving watch, combining precision, durability, and timeless style.",
+        "currentBidPrice": 9800,
+        "timeLeft": "2 days",
+        "bidsCount": 8,
+        "image": "https://i.ibb.co/0yc4SqsJ/cd2504ab453f.png"
+    },
+    {
+        "id": "5",
+        "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+        "description": "A rare first edition of the literary classic, highly sought after by collectors.",
+        "currentBidPrice": 3200,
+        "timeLeft": "4 days 6 hours",
+        "bidsCount": 5,
+        "image": "https://i.ibb.co/4nxBqm1X/5f85ce19ea10.png"
+    },
+    {
+        "id": "6",
+        "title": "Mid-Century Modern Eames Lounge Chair",
+        "description": "An iconic lounge chair design, offering comfort and elegance for any space.",
+        "currentBidPrice": 2750,
+        "timeLeft": "5 days",
+        "bidsCount": 6,
+        "image": "https://i.ibb.co/GG6zFzk/317fec60b1c2.png"
+    },
+    {
+        "id": "7",
+        "title": "Banksy Original Screen Print",
+        "description": "An iconic lounge chair design, offering comfort and elegance for any space.",
+        "currentBidPrice": 5750,
+        "timeLeft": "6 days 6 hours",
+        "bidsCount": 7,
+        "image": "https://i.ibb.co/1J0MMzKT/8d3dd7cc6b3b.png"
+    }
+]
