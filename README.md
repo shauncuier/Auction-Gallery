@@ -1,8 +1,20 @@
 # Auction Gallery
 
-GitHub Link -> https://github.com/programming-hero-web-course1/b11a7-auction-gallery-shauncuier
+A modern React-based auction platform to discover, bid, and manage favorite items. Built with Vite, Tailwind CSS, and DaisyUI.
 
-Live Link -> https://auction-gallery-a7.netlify.app/
+[GitHub Repository](https://github.com/programming-hero-web-course1/b11a7-auction-gallery-shauncuier) | [Live Demo](https://auction-gallery-a7.netlify.app/)
+
+---
+
+## Features
+
+- Browse and bid on auction items
+- Add/remove items to favorites with real-time price calculation
+- Responsive design with Tailwind CSS and DaisyUI
+- Toast notifications for actions
+- Modern UI with Remixicon icons
+
+---
 
 # Auction Gallery Project Overview
 
@@ -241,6 +253,48 @@ Utility functions for displaying notifications using `react-toastify`.
 
 The project uses Tailwind CSS for styling, integrated via the `@tailwindcss/vite` plugin.
 
-## Conclusion
+---
 
-The Auction Gallery project is a React application built with Vite, utilizing Tailwind CSS for styling and various libraries for functionality. The project is well-structured with clear separation of concerns, making it easy to maintain and extend.
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher recommended)
+- npm
+
+### Installation
+
+```bash
+git clone https://github.com/programming-hero-web-course1/b11a7-auction-gallery-shauncuier.git
+cd auction-gallery
+npm install
+```
+
+### Running Locally
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view in your browser.
+
+---
+
+## Available Scripts
+
+- `npm run dev` – Start the development server
+- `npm run build` – Build for production
+- `npm run preview` – Preview the production build
+- `npm run lint` – Lint the codebase
+
+---
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests for improvements.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
